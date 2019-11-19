@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace HeistExercise
 {
@@ -24,7 +23,7 @@ namespace HeistExercise
             try
             {
                 //put thing that might throw an exception in here
-                int skillLevel = int.Parse(skillLevelString);
+                skillLevel = int.Parse(skillLevelString);
             }
             catch (Exception ex)
             {
@@ -60,9 +59,9 @@ namespace HeistExercise
                 SkillLevel = skillLevel,
                 CourageFactor = courageFactor,
             };
-            Console.WriteLine($"Name: {teamMember.name}");
-            Console.WriteLine($"Skill Level: {teamMember.skillLevel}");
-            Console.WriteLine($"Courage Factor: {teamMember.courageFactor}");
+            Console.WriteLine($"Name: {teamMember.Name}");
+            Console.WriteLine($"Skill Level: {teamMember.SkillLevel}");
+            Console.WriteLine($"Courage Factor: {teamMember.CourageFactor}");
         }
     }
 }
