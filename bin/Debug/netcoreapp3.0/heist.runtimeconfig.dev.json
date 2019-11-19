@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/arynweatherly/.dotnet/store/|arch|/|tfm|",
+      "/Users/arynweatherly/.nuget/packages"
+    ]
+  }
+}

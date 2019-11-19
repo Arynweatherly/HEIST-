@@ -1,0 +1,11 @@
+/Users/arynweatherly/workspace/csharp/exercises/heist/obj/Debug/netcoreapp3.0/heist.csprojAssemblyReference.cache
+/Users/arynweatherly/workspace/csharp/exercises/heist/obj/Debug/netcoreapp3.0/heist.AssemblyInfoInputs.cache
+/Users/arynweatherly/workspace/csharp/exercises/heist/obj/Debug/netcoreapp3.0/heist.AssemblyInfo.cs
+/Users/arynweatherly/workspace/csharp/exercises/heist/bin/Debug/netcoreapp3.0/heist
+/Users/arynweatherly/workspace/csharp/exercises/heist/bin/Debug/netcoreapp3.0/heist.deps.json
+/Users/arynweatherly/workspace/csharp/exercises/heist/bin/Debug/netcoreapp3.0/heist.runtimeconfig.json
+/Users/arynweatherly/workspace/csharp/exercises/heist/bin/Debug/netcoreapp3.0/heist.runtimeconfig.dev.json
+/Users/arynweatherly/workspace/csharp/exercises/heist/bin/Debug/netcoreapp3.0/heist.dll
+/Users/arynweatherly/workspace/csharp/exercises/heist/bin/Debug/netcoreapp3.0/heist.pdb
+/Users/arynweatherly/workspace/csharp/exercises/heist/obj/Debug/netcoreapp3.0/heist.dll
+/Users/arynweatherly/workspace/csharp/exercises/heist/obj/Debug/netcoreapp3.0/heist.pdb
